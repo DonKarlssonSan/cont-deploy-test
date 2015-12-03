@@ -11,7 +11,7 @@ namespace MyWebJob
     {
         static void Main(string[] args)
         {
-            Debug.WriteLine("I'm alive!!!!!!!!!!");
+            Debug.WriteLine("I'm alive!");
         }
     }
 }
